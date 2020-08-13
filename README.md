@@ -1,5 +1,5 @@
 # closestAirport
-Find the closest airport from your location using this app.
+Find the closest airport from your location using this app using Great Circle(orthodromic) distance calculation with focus on performance.
 
 Uses Great Circle distance or orthodromic distance to calculate the distance to the closest airport from your location.
 This means it takes into consideration the curvature of the earth and does not find the airport based on a straight line distance through the surface of the earth.
